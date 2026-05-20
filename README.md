@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on micro-saas projects
 - 🌱 I’m currently learning micro-services, kubernetes, and homelab.
-- 👯 I’m looking to collaborate on Salesforce, Django, or machine learning projects.
-- 💬 Ask me about Salesforce, Mulesoft, Django, Machine Learning. (Literally anything tech related)
+- 👯 I’m looking to collaborate on Salesforce, Django, or AI projects.
+- 💬 Ask me about Salesforce, Middleware, Django, AI, Infrastructure as Code, or Homelabbing.
 - 📫 How to reach me: hhamaker22@gmail.com
